@@ -3,4 +3,4 @@ Primeiro repositório remoto (para Dio).
 
 
 ##Links úteis
-[Sintaxe básica:](https://www.markdownguide.org/basic-sintax/)
+[Sintaxe básica:](https://www.markdownguide.org/basic-syntax/)
